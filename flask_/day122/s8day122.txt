@@ -1,0 +1,17 @@
+
+2. Flask
+    -装饰器实现
+         -位置
+         -url 起别名
+    -类似django 中间件的东西：before_request
+3:上下文预习：
+    a.threading.local
+    b.
+      functools.wraps
+      functools.partial
+    c.
+      面向对象封装
+    d.面向对象中
+      __setattr__
+      __getattr__
+      __delattr__
